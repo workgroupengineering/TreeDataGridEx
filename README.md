@@ -1,3 +1,5 @@
+# Deprecated in favour of https://github.com/wieslawsoltes/ProDataGrid
+
 # TreeDataGridEx
 
 [![CI](https://github.com/wieslawsoltes/TreeDataGridEx/actions/workflows/build.yml/badge.svg)](https://github.com/wieslawsoltes/TreeDataGridEx/actions/workflows/build.yml)
